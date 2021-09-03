@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">exameenn</string>
+    <string name="todo">TODO</string>
+    <string name="view">view</string>
+    <string name="pdf">PDF</string>
+    <string name="click_to_download_pdf">CLICK TO DOWNLOAD PDF</string>
+</resources>
